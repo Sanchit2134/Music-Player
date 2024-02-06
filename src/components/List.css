@@ -1,0 +1,40 @@
+.parent--container{
+    width: 70rem;
+    height: 100vh;
+    margin-top: 1rem;
+    margin-left: 2rem ;
+    
+}
+.songlist{
+    padding-top: 3rem;
+}
+h1{
+    padding-bottom: 2rem;
+}
+.first{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 2px;
+}
+span{
+    color: beige;
+    padding-top: 1.5rem;
+    font-size: 15px;
+}
+h2{
+    width: 40%;
+}
+.song{
+    cursor: pointer;
+}
+.song:hover{
+    background-color: #0476c1;
+}
+.second--song{
+    cursor: pointer;
+    
+    background-color:#3db1ff;
+}
+.second--song:hover{
+    background-color:#0476c1;
+}

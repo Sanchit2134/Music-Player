@@ -1,0 +1,35 @@
+.big--container{
+    display: flex;
+    justify-content: center;
+
+    flex-direction: column;
+}
+
+.player--conatainer {
+  display: flex;
+
+  justify-content: center;
+  margin-bottom: 4rem;
+}
+
+.border--player {
+  border: 1px solid black;
+  width: 30%;
+}
+.parent--icon--div{
+    display: flex;
+
+    justify-content: center;
+    padding-bottom: 9.1rem;
+}
+.icon--conatainer {
+    display: flex;
+    justify-content: space-between;
+    width: 25%;
+    /* border: 1px solid black; */
+    margin-left: -15rem;
+}
+.icop{
+    cursor: pointer;
+    padding: 1.5rem;
+}
